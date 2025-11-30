@@ -1,0 +1,17 @@
+# Compiled binaries
+bin/
+*.o
+
+# Logs and persistence
+*.log
+*.dat
+*.tmp
+
+# Scripts
+backdate.sh
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
